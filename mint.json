@@ -1,0 +1,19 @@
+{
+  "name": "mint-playground",
+  "application": {
+    "head": "assets/head.html",
+    "title": "mint-playground",
+    "icon": "assets/favicon.png"
+  },
+  "external": {
+    "stylesheets": [
+      "assets/style.css"
+    ]
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ]
+}
